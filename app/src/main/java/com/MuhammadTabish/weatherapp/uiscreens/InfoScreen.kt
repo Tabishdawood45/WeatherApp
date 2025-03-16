@@ -66,7 +66,7 @@ fun InfoScreen(navController: NavController) {
 
 
             Text(
-                text = "Developed by: Muhammad Shafiq Saif",
+                text = "Developed by: Muhammad Tabish",
                 fontSize = 16.sp,
                 fontWeight = FontWeight.Medium,
                 color = Color(0xFF455A64)
